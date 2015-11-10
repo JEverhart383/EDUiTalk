@@ -24,8 +24,8 @@ If you want to review some of the slides from this talk, there are open shared o
 
 After that, we'll take a look at doing the same thing with less code using the Dimple library. 
 
-D3 Example: [http://jeverhart383.github.io/EDUiTalk/](http://jeverhart383.github.io/EDUiTalk/)
-Dimple Example: [http://jeverhart383.github.io/EDUiTalk/dimple.html](http://jeverhart383.github.io/EDUiTalk/dimple.html)
+* D3 Example: [http://jeverhart383.github.io/EDUiTalk/](http://jeverhart383.github.io/EDUiTalk/)
+* Dimple Example: [http://jeverhart383.github.io/EDUiTalk/dimple.html](http://jeverhart383.github.io/EDUiTalk/dimple.html)
 
 ####Further Reading
 
