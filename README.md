@@ -29,10 +29,10 @@ Dimple Example: [http://jeverhart383.github.io/EDUiTalk/dimple.html](http://jeve
 
 ####Further Reading
 
-+[Interactive Data Visualizations for the Web, Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
-+[Mike Bostock's Tutorial (Creator of D3)](https://github.com/mbostock/d3/wiki/Tutorials)
-+[Dashing D3 JS](https://www.dashingd3js.com/)
-+[Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
+*[Interactive Data Visualizations for the Web, Scott Murray](http://chimera.labs.oreilly.com/books/1230000000345/index.html)
+*[Mike Bostock's Tutorial (Creator of D3)](https://github.com/mbostock/d3/wiki/Tutorials)
+*[Dashing D3 JS](https://www.dashingd3js.com/)
+*[Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
 
 
