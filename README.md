@@ -34,6 +34,10 @@ After that, we'll take a look at doing the same thing with less code using the D
 * [Dashing D3 JS](https://www.dashingd3js.com/)
 * [Data Visualization and D3.js](https://www.udacity.com/course/data-visualization-and-d3js--ud507)
 
+####Other Charting Libs
+* [nvd3](http://nvd3.org/)
+* [Tau Charts](http://www.taucharts.com/)
+
 
 
 
