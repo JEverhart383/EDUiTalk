@@ -1,0 +1,465 @@
+[
+
+{
+	"state": "Alabama",
+	"postal_code": "AL",
+	"electoral_votes": 9 ,
+	"dem_votes": 795696 , 
+	"rep_votes": 1255925, 
+	"other_votes": 22717
+
+},
+{
+	"state": "Alaska",
+	"postal_code": "AK",
+	"electoral_votes": 3 ,
+	"dem_votes": 122640, 
+	"rep_votes": 164676, 
+	"other_votes": 13179
+
+},
+
+{
+	"state": "Arizona" ,
+	"postal_code": "AZ",
+	"electoral_votes": 11 ,
+	"dem_votes": 1025232, 
+	"rep_votes": 1233654, 
+	"other_votes": 40368
+
+},
+
+{
+	"state": "Arkansas" ,
+	"postal_code": "AR",
+	"electoral_votes": 6 ,
+	"dem_votes": 394409, 
+	"rep_votes": 647744, 
+	"other_votes": 27315
+
+}, 
+
+{
+	"state": "California" ,
+	"postal_code": "CA",
+	"electoral_votes": 55 ,
+	"dem_votes": 7854285, 
+	"rep_votes": 4839958, 
+	"other_votes": 344304
+
+}, 
+{
+	"state": "Colorado",
+	"postal_code": "CO",
+	"electoral_votes": 9 ,
+	"dem_votes": 1323102, 
+	"rep_votes": 1185243, 
+	"other_votes": 61177
+
+}, 
+{
+	"state": "Connecticut" ,
+	"postal_code": "CT",
+	"electoral_votes": 7 ,
+	"dem_votes": 905083, 
+	"rep_votes": 634892, 
+	"other_votes": 18985
+
+}, 
+{
+	"state": "Deleware" ,
+	"postal_code": "DE",
+	"electoral_votes": 3 ,
+	"dem_votes": 242584, 
+	"rep_votes": 165484, 
+	"other_votes": 5853
+
+},
+{
+	"state": "Washington D.C." ,
+	"postal_code": "DC",
+	"electoral_votes": 3 ,
+	"dem_votes": 267070, 
+	"rep_votes": 21381, 
+	"other_votes":5313
+
+},
+{
+	"state": "Florida" ,
+	"postal_code": "FL",
+	"electoral_votes": 29 ,
+	"dem_votes": 4237756, 
+	"rep_votes": 4163447, 
+	"other_votes": 72976
+
+},
+{
+	"state": "Georgia" ,
+	"postal_code": "GA",
+	"electoral_votes": 16 ,
+	"dem_votes": 1773827 , 
+	"rep_votes": 2078688 , 
+	"other_votes": 47535
+
+},
+{
+	"state": "Hawaii" ,
+	"postal_code": "HI",
+	"electoral_votes": 4 ,
+	"dem_votes": 306658 , 
+	"rep_votes": 121015, 
+	"other_votes": 7024 
+
+},
+{
+	"state": "Idaho",
+	"postal_code": "ID",
+	"electoral_votes": 4 ,
+	"dem_votes": 212787 , 
+	"rep_votes": 420911 , 
+	"other_votes": 18576 
+
+},
+{
+	"state": "Illinois" ,
+	"postal_code": "IL",
+	"electoral_votes": 20 ,
+	"dem_votes": 3019512 , 
+	"rep_votes": 2135216, 
+	"other_votes": 87286 
+
+},
+{
+	"state": "Indiana" ,
+	"postal_code": "IN",
+	"electoral_votes": 11,
+	"dem_votes": 1152887, 
+	"rep_votes": 1420543 , 
+	"other_votes": 51104 
+
+},
+{
+	"state": "Iowa" ,
+	"postal_code": "IA",
+	"electoral_votes": 6,
+	"dem_votes": 822544 , 
+	"rep_votes": 730617, 
+	"other_votes": 29019 
+
+},
+{
+	"state": "Kansas" ,
+	"postal_code": "KS",
+	"electoral_votes": 6,
+	"dem_votes": 440726 , 
+	"rep_votes": 692634 , 
+	"other_votes": 26611 
+
+},
+{
+	"state": "Kentucky" ,
+	"postal_code": "KY",
+	"electoral_votes": 8 ,
+	"dem_votes": 679370 , 
+	"rep_votes": 1087190 , 
+	"other_votes": 30652 
+
+},
+{
+	"state": "Louisana",
+	"postal_code": "LS",
+	"electoral_votes": 8,
+	"dem_votes": 809141, 
+	"rep_votes": 1152262, 
+	"other_votes": 32662
+
+},
+{
+	"state": "Maine",
+	"postal_code": "ME",
+	"electoral_votes": 4 ,
+	"dem_votes": 401306, 
+	"rep_votes": 292276, 
+	"other_votes": 19598
+
+},
+{
+	"state": "Maryland" ,
+	"postal_code": "MD",
+	"electoral_votes": 10 ,
+	"dem_votes": 1677844, 
+	"rep_votes": 972869, 
+	"other_votes": 57614
+
+},
+{
+	"state": "Massachusetts",
+	"postal_code": "MA",
+	"electoral_votes": 11,
+	"dem_votes": 1921290, 
+	"rep_votes": 1188314, 
+	"other_votes": 58163
+
+},
+{
+	"state": "Michigan" ,
+	"postal_code": "MI",
+	"electoral_votes": 16,
+	"dem_votes": 2564569, 
+	"rep_votes": 2115256, 
+	"other_votes":51136
+
+},
+{
+	"state": "Minnesota" ,
+	"postal_code": "MN",
+	"electoral_votes": 10,
+	"dem_votes": 1546167  , 
+	"rep_votes": 1320225 , 
+	"other_votes": 70169 
+
+},
+{
+	"state": "Mississippi" ,
+	"postal_code": "MS",
+	"electoral_votes": 6 ,
+	"dem_votes": 562949 , 
+	"rep_votes": 710746 , 
+	"other_votes": 11889
+
+},
+{
+	"state": "Missouri",
+	"postal_code": "MO",
+	"electoral_votes": 10,
+	"dem_votes": 1223796 , 
+	"rep_votes": 1482440 , 
+	"other_votes": 51087 
+
+},
+{
+	"state": "Montana",
+	"postal_code": "MT",
+	"electoral_votes": 3,
+	"dem_votes": 201839, 
+	"rep_votes": 267928 , 
+	"other_votes": 14281 
+
+},
+{
+	"state": "Nebraska" ,
+	"postal_code": "NE",
+	"electoral_votes": 5 ,
+	"dem_votes": 302081 , 
+	"rep_votes": 475064 , 
+	"other_votes": 17234 
+
+},
+{
+	"state": "Nevada" ,
+	"postal_code": "NV",
+	"electoral_votes": 6 ,
+	"dem_votes": 531373 , 
+	"rep_votes": 463567 , 
+	"other_votes": 19978 
+
+},
+{
+	"state": "New Hampshire" ,
+	"postal_code": "NH",
+	"electoral_votes": 4,
+	"dem_votes": 369561 , 
+	"rep_votes": 329918, 
+	"other_votes": 11493 
+
+},
+{
+	"state": "New Jersey" ,
+	"postal_code": "NJ",
+	"electoral_votes": 14,
+	"dem_votes": 2125101 , 
+	"rep_votes": 1477568 , 
+	"other_votes": 37623 
+
+},
+{
+	"state": "New Mexico" ,
+	"postal_code": "NM",
+	"electoral_votes": 5,
+	"dem_votes": 415335   , 
+	"rep_votes": 335788 , 
+	"other_votes": 32635  
+
+},
+{
+	"state": "New York" ,
+	"postal_code": "NY",
+	"electoral_votes": 29,
+	"dem_votes": 4485741 , 
+	"rep_votes": 2490431 , 
+	"other_votes": 104987  
+
+},
+{
+	"state": "North Carolina" ,
+	"postal_code": "NC",
+	"electoral_votes": 15,
+	"dem_votes": 2178391, 
+	"rep_votes": 2270395 , 
+	"other_votes": 56586 
+
+},
+{
+	"state": "North Dakota" ,
+	"postal_code": "ND",
+	"electoral_votes": 3,
+	"dem_votes": 124827 , 
+	"rep_votes": 188163 , 
+	"other_votes": 9637 
+
+},
+{
+	"state": "Ohio" ,
+	"postal_code": "OH",
+	"electoral_votes": 18 ,
+	"dem_votes": 2827710 , 
+	"rep_votes": 2661433 , 
+	"other_votes": 91697 
+
+},
+{
+	"state": "Oklahoma" ,
+	"postal_code": "OK",
+	"electoral_votes": 7,
+	"dem_votes": 443547 , 
+	"rep_votes": 891325 , 
+	"other_votes": 0
+
+},
+{
+	"state": "Oregon" ,
+	"postal_code": "OR",
+	"electoral_votes": 7 ,
+	"dem_votes": 970488 , 
+	"rep_votes": 754175 , 
+	"other_votes": 64607 
+
+},
+{
+	"state": "Pennsylvania" ,
+	"postal_code": "PA",
+	"electoral_votes": 20 ,
+	"dem_votes": 2990274 , 
+	"rep_votes": 2680434 , 
+	"other_votes": 82962 
+
+},
+{
+	"state": "Rhode Island" ,
+	"postal_code": "RI",
+	"electoral_votes": 4 ,
+	"dem_votes": 279677 , 
+	"rep_votes": 157204 , 
+	"other_votes": 9168 
+
+},
+{
+	"state": "South Carolina" ,
+	"postal_code": "SC",
+	"electoral_votes": 9 ,
+	"dem_votes": 865941 , 
+	"rep_votes": 1071645 , 
+	"other_votes": 26532 
+
+},
+{
+	"state": "South Dakota" ,
+	"postal_code": "SD",
+	"electoral_votes": 3,
+	"dem_votes": 145039 , 
+	"rep_votes": 210610 , 
+	"other_votes": 8166 
+
+},
+{
+	"state": "Tennessee" ,
+	"postal_code": "TN",
+	"electoral_votes": 11,
+	"dem_votes": 960709 , 
+	"rep_votes": 1462330 , 
+	"other_votes": 35538 
+
+},
+{
+	"state": "Texas" ,
+	"postal_code": "TX",
+	"electoral_votes": 38,
+	"dem_votes": 3308124 , 
+	"rep_votes": 4569843 , 
+	"other_votes": 115884 
+
+},
+{
+	"state": "Utah" ,
+	"postal_code": "UT",
+	"electoral_votes": 6 ,
+	"dem_votes": 251813, 
+	"rep_votes": 740600 , 
+	"other_votes": 25027 
+
+},
+{
+	"state": "Vermont" ,
+	"postal_code": "VT",
+	"electoral_votes": 3 ,
+	"dem_votes": 199239 , 
+	"rep_votes": 92698 , 
+	"other_votes": 7353
+
+},
+{
+	"state": "Virginia" ,
+	"postal_code": "VA",
+	"electoral_votes": 13,
+	"dem_votes": 1971820 , 
+	"rep_votes": 1822522 , 
+	"other_votes": 60147 
+
+},
+{
+	"state": "Washington" ,
+	"postal_code": "WA",
+	"electoral_votes": 12 ,
+	"dem_votes": 1755396 , 
+	"rep_votes": 1290670 , 
+	"other_votes": 79450 
+
+},
+{
+	"state": "West Virginia" ,
+	"postal_code": "WV",
+	"electoral_votes": 5 ,
+	"dem_votes": 238269 , 
+	"rep_votes": 417655 , 
+	"other_votes": 14514 
+
+},
+{
+	"state": "Wisconsin" ,
+	"postal_code": "WI",
+	"electoral_votes": 10 ,
+	"dem_votes": 1620985 , 
+	"rep_votes": 1407966 , 
+	"other_votes": 39483 
+
+},
+{
+	"state": "Wyoming" ,
+	"postal_code": "WY",
+	"electoral_votes": 3,
+	"dem_votes": 69286 , 
+	"rep_votes": 170962 , 
+	"other_votes": 8813 
+
+}
+]
